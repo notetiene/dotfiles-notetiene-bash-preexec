@@ -1,3 +1,8 @@
+# -*- mode: sh; sh-shell: bash -*-
+# vim:ft=sh:
+
+# /bin/echo -e '\033[1;32mIn .bash/interactive.d/history.bash\033[0m'
+
 # bash-preexec.sh -- Bash support for ZSH-like 'preexec' and 'precmd' functions.
 # https://github.com/rcaloras/bash-preexec
 #
